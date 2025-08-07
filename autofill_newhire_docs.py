@@ -58,8 +58,8 @@ if __name__ == "__main__":
         }
 
         # Template paths
-        template_1 = r"C:\Users\christopher.desmond\Downloads\New Hires\templates\first day new hire form template.docx"
-        template_2 = r"C:\Users\christopher.desmond\Downloads\New Hires\templates\New_Hires_template.docx"
+        template_1 = r""
+        template_2 = r""
 
         # Output folder
         output_folder = r"C:\Users\christopher.desmond\Downloads\New Hires\New Hires Output"
